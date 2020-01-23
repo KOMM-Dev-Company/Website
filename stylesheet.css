@@ -1,3 +1,28 @@
+a.button {
+    text-decoration: none;
+    float: left;
+}
+.button{
+    display: block;
+    position: relative;
+    border: 2px solid red;
+    font-size: 26px;
+    padding: 5px;
+    background-color: lightpink;
+    margin-right: 15px;
+}
 body {
-    background-color: aqua;
+    background: rgb(0,255,145);
+    background: linear-gradient(0deg, rgba(0,255,145,1) 12%, rgba(0,255,184,1) 50%, rgba(0,255,145,1) 91%);
+}
+#top {
+    width: auto;
+    height: 80px;
+    background-color: lightgray;
+    padding: 5px;
+    text-align: center;
+}
+#nav {
+    width: auto;
+    padding: 10px;
 }

@@ -1,3 +1,3 @@
 ### Wspólny projekt strony
 
-Autorzy: **Maciej** & **Kamil**
+Autorzy: **Kamil** & **Maciej**

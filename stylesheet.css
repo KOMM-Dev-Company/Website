@@ -22,7 +22,7 @@ a.button:visited{
 }
 body {
     background: rgb(38, 40, 53);
-    background: linear-gradient(60deg, rgba(35,40,50,1) 20%, rgba(20,60,80,1) 45%, rgba(35,40,50,1) 90%); */
+    background: linear-gradient(60deg, rgba(35,40,50,1) 20%, rgba(20,60,80,1) 45%, rgba(35,40,50,1) 90%);
 }
 #top {
     width: auto;
@@ -30,6 +30,7 @@ body {
     background-color: lightgray;
     padding: 5px;
     text-align: center;
+    border-radius: 20px;
 }
 #nav {
     width: auto;
